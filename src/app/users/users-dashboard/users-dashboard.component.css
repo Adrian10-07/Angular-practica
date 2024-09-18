@@ -1,0 +1,17 @@
+table{
+    border-collapse: collapse;
+    margin-left: 55vh;
+}
+
+
+table #table-headers{
+    color: black;
+    background-color: bisque;
+    box-shadow: inset;
+}
+
+
+table .data-users{
+    color: black;
+    background-color: #ffd9aa67;
+}
